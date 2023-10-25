@@ -1,0 +1,162 @@
+body{
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+	background-color: gray;
+	background-image: url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
+}
+
+.header{
+	padding:15px 0px;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+	background-color:#black;
+	position:sticky;
+	top:0;
+	z-index:999;
+	background-image: url("https://wallpapers.com/images/hd/purple-watercolor-background-2560-x-1706-smpcepkzq89ktl41.jpg");
+}
+.header .menu a{
+	text-decoration:none;
+	color:#FC4C4E;
+	text-transform:uppercase;
+	font-size:26px;
+	margin:0px 15px;
+}
+.header .menu{
+	text-align:center;
+	margin-top:35px;
+}
+.header .menu a:hover{
+	color:cyan !important;
+}
+body{
+	
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+	background-image: url("");
+}
+.header .icon{
+	margin-top:35px;
+	color:cyan;
+}
+.header .icon a{
+	text-decoration:none;
+	color:cyan;
+	font-size:18px;
+	margin:0px 12px;
+}
+.home{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	background-size:100%;
+	height:660px;
+	width:100%;
+	background-image:url("https://wallpapers.com/images/hd/purple-watercolor-background-2560-x-1706-smpcepkzq89ktl41.jpg");
+	box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.about{
+	padding:40px;
+	background-size:100%;
+	height:700px;
+	width:100%;
+	background-color:#D1E5F4	;
+	box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.about ul{
+	margin-top:20px;
+	padding:20px;
+	background-color:rgba(255,255,255,0.5);
+}
+.skills{
+	margin-top:10px;
+	padding:20px;
+	background-color:rgba(255,255,255,0.5);
+	box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+.about1{
+	padding:20px;
+	margin-top:20px;
+	box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+.project{
+	padding:50px;
+	background-size:100%;
+	height:650px;
+	width:100%;
+	background-color:#D1E5F4	;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+.project a{
+	background-color:rgba(255,255,255,0.2);
+	color:blue;
+	text-decoration:none;
+}
+.project h2{
+	background-color:rgba(255,255,255,0.2);
+}
+.contact{
+	padding:30px;
+	background-size:100%;
+	height:250px;
+	width:100%;
+	background-image:url("https://wallpapers.com/images/hd/purple-watercolor-background-2560-x-1706-smpcepkzq89ktl41.jpg")	;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+.contact li{
+	color:black;
+}
+.contact li a{
+	color:black;
+	text-decoration:none;
+}
+.contact iframe{
+	width:340px;
+	height:200px;
+}
+.ton1{
+	background-size:100%;
+	color:cyan;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+	background-image:url("https://c4.wallpaperflare.com/wallpaper/885/396/858/planet-gaia-globe-world-wallpaper-thumb.jpg");
+	height:170px;
+	padding:20px;
+	margin-top:30px;
+}
+.ton2{
+	color:purple;
+	background-size:100%;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+	background-image:url("https://www.shutterstock.com/image-vector/rock-paper-scissors-fingers-vector-260nw-1133196602.jpg");
+	height:170px;
+	padding:20px;
+	margin-top:30px;
+}
+.ton3{
+	background-size:100%;
+	color:red;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+	background-image:url("https://www.color-meanings.com/wp-content/uploads/2022/09/colorful-abstract-art-rainbow-waves.jpeg");
+	height:170px;
+	padding:20px;
+	margin-top:30px;
+}
+.ton4{
+	color:cyan;
+	background-size:100%;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+	background-image:url("https://images8.alphacoders.com/132/thumb-1920-1323184.png");
+	height:170px;
+	padding:20px;
+	margin-top:30px;
+}
+.ton5{
+	color:white;
+	background-size:100%;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+	background-image:url("https://i.ytimg.com/vi/qx22HNv2Y9s/maxresdefault.jpg");
+	height:170px;
+	padding:20px;
+	margin-top:30px;
+}
